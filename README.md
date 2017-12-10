@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
@@ -96,3 +97,7 @@ still be compilable with cmake and make./
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+=======
+# CarND-PID-Control-Project
+PID controller in C++ to maneuver a vehicle.
+>>>>>>> b1e0cbc745c88b870b23d2bb735b5f270bb61ab7
